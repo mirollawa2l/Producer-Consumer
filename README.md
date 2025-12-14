@@ -1,7 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CVb3AUs2)
-
-
-# Producer-Consumer Shared Memory IPC Project
+## Producer-Consumer Shared Memory IPC Project
 
 ## Overview
 This project implements a **Producer-Consumer system using shared memory and semaphores** in C++ on Linux. It demonstrates inter-process communication (IPC) with multiple producers and a consumer, managing a bounded buffer with proper synchronization.  
